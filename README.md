@@ -364,8 +364,8 @@ However, it's worth noting that for certain customer segments, fast shipping may
 
 <h2 id="sales-analysis" align="left"><font color="#9B60A1">PowerBI Report for Sales Analysis </font></h2>
 
-[![PowerBI Report 1](/outputs/BI_Report_1.png)]
+[![PowerBI Report 1](/assets/BI_Report_1.png)]
 
 <h2 "ship-day-analysis" align="left"><font color="#9B60A1">PowerBI Report for Shipping Day Analysis </font></h2>
 
-[![PowerBI Report 2](/outputs/BI_Report_2.png)]
+[![PowerBI Report 2](/assets/BI_Report_2.png)]
